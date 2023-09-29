@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mr-new-0509/kingpac-backend.git"
+    "url": "git+https://github.com/darenGit28/KingpacBackend-Express.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mr-new-0509/kingpac-backend/issues"
+    "url": "https://github.com/darenGit28/KingpacBackend-Express/issues"
   },
-  "homepage": "https://github.com/mr-new-0509/kingpac-backend#readme",
+  "homepage": "https://github.com/darenGit28/KingpacBackend-Express#readme",
   "dependencies": {
     "axios": "^0.26.0",
     "cors": "^2.8.5",
