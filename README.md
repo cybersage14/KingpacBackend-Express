@@ -1,10 +1,5 @@
 # The Backend of KING Pacman site
 
-## Live sites
-[![Live site](live-site-1.png)](https://kingpactoken.com)
-
-[![Live site](live-site-2.png)](https://kingpactoken.com)
-
 ## Release date
 May 27, 2022
 
